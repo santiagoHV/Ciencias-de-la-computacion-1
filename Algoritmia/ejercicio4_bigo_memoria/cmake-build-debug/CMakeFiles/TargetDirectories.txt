@@ -1,0 +1,3 @@
+C:/Users/santi/OneDrive/Documentos/UNIVERSIDAD SEMESTRE 2021.1/CIENCIAS 1/Algoritmia/ejercicio4_bigo_memoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/santi/OneDrive/Documentos/UNIVERSIDAD SEMESTRE 2021.1/CIENCIAS 1/Algoritmia/ejercicio4_bigo_memoria/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/santi/OneDrive/Documentos/UNIVERSIDAD SEMESTRE 2021.1/CIENCIAS 1/Algoritmia/ejercicio4_bigo_memoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

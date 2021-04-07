@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/santi/OneDrive/Documentos/UNIVERSIDAD SEMESTRE 2021.1/CIENCIAS 1/Algoritmia/ejercicio3_bigo_memoria/main.cpp
+iostream
+-
+cstdlib
+-
+
